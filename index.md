@@ -6,7 +6,7 @@ This is a test home page of Valia.
 ## Other Stuff
 
 Twitter :@valia_lee
-<addr>
+<br>
 [Itch](https://valia.itch.io) 
-<addr>
+<br>
 [Edit This Page](https://github.com/ValiaP/WebTest/edit/master/index.md) 
