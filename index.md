@@ -1,6 +1,6 @@
 ## About
 
-Hey i am indie game dever. Check out my projects at Itch: [link](https://valia.itch.io) Feel free to contact me if you are interested in any project.
+Hey i am indie game dever. I do art, code for indie games. Check out my projects at Itch: [link](https://valia.itch.io) Feel free to contact me if you are interested in any project.
 
 
 
