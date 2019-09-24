@@ -13,6 +13,6 @@ Itch: [link](https://valia.itch.io)
 Discord: Valia#1576
 
 ## Other Stuff
-[Edit This Page](https://github.com/ValiaP/WebTest/edit/master/index.md) 
+[Edit This Page](https://github.com/ValiaP/Valia/edit/master/index.md) 
 <br>
 [View This Page](https://valiap.github.io/Valia/) 
